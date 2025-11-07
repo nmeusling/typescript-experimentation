@@ -1,23 +1,17 @@
 {
-  "name": "typescript-experimentation",
+  "name": "playwright",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nmeusling/typescript-experimentation.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nmeusling/typescript-experimentation/issues"
-  },
-  "homepage": "https://github.com/nmeusling/typescript-experimentation#readme",
   "devDependencies": {
     "@playwright/test": "^1.56.1",
-    "@types/node": "^24.10.0",
-    "typescript": "^5.9.3"
+    "@types/node": "^24.10.0"
+  },
+  "dependencies": {
+    "playwright": "^1.56.1"
   }
 }

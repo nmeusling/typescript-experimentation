@@ -1,0 +1,7 @@
+/home/nmeusling/Projects/typescript-experimentation/.devenv/flake.json
+/home/nmeusling/Projects/typescript-experimentation/.devenv.flake.nix
+/home/nmeusling/Projects/typescript-experimentation/.env
+/home/nmeusling/Projects/typescript-experimentation/devenv.local.nix
+/home/nmeusling/Projects/typescript-experimentation/devenv.lock
+/home/nmeusling/Projects/typescript-experimentation/devenv.nix
+/home/nmeusling/Projects/typescript-experimentation/devenv.yaml
