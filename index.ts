@@ -1,10 +1,10 @@
-function main(): void {
-    const projectName = "support.ai";
-    welcome(projectName);
-}
+import { log, chats } from "./chats.js";
 
-function welcome(name) {
-    return "Hello, " + name.toLowerCase();
-}
+const button = document.getElementById("enable-button")!;
 
-main();
+button.addEventListener("click", () => {
+    // @ts-ignore
+    window.supportAI.enableAutoReply();
+});
+
+log(chats);

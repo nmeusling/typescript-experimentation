@@ -9,7 +9,11 @@
   env.GREET = "devenv";
 
   # https://devenv.sh/packages/
-  packages = [pkgs.git];
+  packages = [
+    pkgs.git
+    pkgs.nodejs_latest
+    pkgs.nodePackages.npm
+  ];
 
   # https://devenv.sh/languages/
   languages.go.enable = true;

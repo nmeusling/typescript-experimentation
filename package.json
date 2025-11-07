@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nmeusling/typescript-experimentation/issues"
   },
-  "homepage": "https://github.com/nmeusling/typescript-experimentation#readme"
+  "homepage": "https://github.com/nmeusling/typescript-experimentation#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
 }
