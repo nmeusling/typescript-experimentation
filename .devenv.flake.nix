@@ -6,13 +6,13 @@ system = "x86_64-linux";
 devenv_root = "/home/nmeusling/Projects/typescript-experimentation";
 devenv_dotfile = "/home/nmeusling/Projects/typescript-experimentation/.devenv";
 devenv_dotfile_path = ./.devenv;
-devenv_tmpdir = "/run/user/1002";
-devenv_runtime = "/run/user/1002/devenv-40884f6";
+devenv_tmpdir = "/run/user/1000";
+devenv_runtime = "/run/user/1000/devenv-40884f6";
 devenv_istesting = false;
 devenv_direnvrc_latest_version = 1;
 container_name = null;
 active_profiles = [ ];
-hostname = "zoth-ommog";
+hostname = "kassogtha";
 username = "nmeusling";
 
         in {
@@ -32,13 +32,13 @@ system = "x86_64-linux";
 devenv_root = "/home/nmeusling/Projects/typescript-experimentation";
 devenv_dotfile = "/home/nmeusling/Projects/typescript-experimentation/.devenv";
 devenv_dotfile_path = ./.devenv;
-devenv_tmpdir = "/run/user/1002";
-devenv_runtime = "/run/user/1002/devenv-40884f6";
+devenv_tmpdir = "/run/user/1000";
+devenv_runtime = "/run/user/1000/devenv-40884f6";
 devenv_istesting = false;
 devenv_direnvrc_latest_version = 1;
 container_name = null;
 active_profiles = [ ];
-hostname = "zoth-ommog";
+hostname = "kassogtha";
 username = "nmeusling";
 
             devenv =
